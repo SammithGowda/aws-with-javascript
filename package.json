@@ -1,0 +1,14 @@
+{
+  "name": "aws-with-javascript",
+  "version": "1.0.0",
+  "description": "aws with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
